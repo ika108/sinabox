@@ -20,3 +20,4 @@ Components :
 - bacula
 - git
 - ldap
+- rundeck
