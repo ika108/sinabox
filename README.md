@@ -20,4 +20,3 @@ Components :
 - bacula
 - git
 - ldap
-- 
